@@ -1,0 +1,569 @@
+151206 14:10:39  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151206 14:10:39  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 3497781.
+InnoDB: Doing recovery: scanned up to log sequence number 0 3497781
+151206 14:10:39  InnoDB: Started; log sequence number 0 3497781
+151206 14:10:39 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+151206 14:10:48 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: Normal shutdown
+
+151206 14:10:48  InnoDB: Starting shutdown...
+151206 14:10:51  InnoDB: Shutdown completed; log sequence number 0 3497781
+151206 14:10:51 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: Shutdown complete
+
+151206 14:10:54  InnoDB: Started; log sequence number 0 3497781
+151206 14:10:54 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+151206 14:11:19 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: Normal shutdown
+
+151206 14:11:19  InnoDB: Starting shutdown...
+151206 14:11:22  InnoDB: Shutdown completed; log sequence number 0 3497781
+151206 14:11:22 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: Shutdown complete
+
+151206 14:12:07  InnoDB: Started; log sequence number 0 3497781
+151206 14:12:07 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+151209  9:20:37  InnoDB: Started; log sequence number 0 3497781
+151209  9:20:37 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+151209 15:20:56  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151209 15:20:56  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 3510548.
+InnoDB: Doing recovery: scanned up to log sequence number 0 3510548
+151209 15:20:56  InnoDB: Started; log sequence number 0 3510548
+151209 15:20:57 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+151213 10:32:32  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151213 10:32:32  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 3510548.
+InnoDB: Doing recovery: scanned up to log sequence number 0 3510548
+151213 10:32:32  InnoDB: Started; log sequence number 0 3510548
+151213 10:32:33 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+151213 14:06:40  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151213 14:06:40  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 3549964.
+InnoDB: Doing recovery: scanned up to log sequence number 0 3549964
+151213 14:06:40  InnoDB: Started; log sequence number 0 3549964
+151213 14:06:40 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160317 10:44:53  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160317 10:44:53  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 3582595.
+InnoDB: Doing recovery: scanned up to log sequence number 0 3582595
+160317 10:44:53  InnoDB: Started; log sequence number 0 3582595
+160317 10:44:53 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160317 10:45:07  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/mysql/en/Operating_System_error_codes.html
+InnoDB: File name D:\ssh\mysql\mysql5\data\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+160329 16:54:32  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160329 16:54:32  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 3582595.
+InnoDB: Doing recovery: scanned up to log sequence number 0 3582595
+160329 16:54:32  InnoDB: Started; log sequence number 0 3582595
+160329 16:54:32 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160406 10:24:50  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160406 10:24:50  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4335708.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4335708
+160406 10:24:50  InnoDB: Started; log sequence number 0 4335708
+160406 10:24:50 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160406 14:15:13  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160406 14:15:13  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4392989.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4392989
+160406 14:15:13  InnoDB: Started; log sequence number 0 4392989
+160406 14:15:13 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160407  9:11:33  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160407  9:11:33  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4392999.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4392999
+160407  9:11:33  InnoDB: Started; log sequence number 0 4392999
+160407  9:11:33 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160617 12:16:41  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160617 12:16:41  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4393009.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4393009
+160617 12:16:41  InnoDB: Started; log sequence number 0 4393009
+160617 12:16:41 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160617 19:53:09  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160617 19:53:09  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4393009.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4393009
+160617 19:53:09  InnoDB: Started; log sequence number 0 4393009
+160617 19:53:09 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160623 14:45:57  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160623 14:45:57  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4393009.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4393009
+160623 14:45:57  InnoDB: Started; log sequence number 0 4393009
+160623 14:45:57 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160624  9:22:36  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160624  9:22:36  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4393019.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4393019
+160624  9:22:36  InnoDB: Started; log sequence number 0 4393019
+160624  9:22:36 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160626 12:12:14  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160626 12:12:14  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4393019.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4393019
+160626 12:12:14  InnoDB: Started; log sequence number 0 4393019
+160626 12:12:14 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160626 14:05:19  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160626 14:05:19  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4393029.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4393029
+160626 14:05:20  InnoDB: Started; log sequence number 0 4393029
+160626 14:05:20 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160627  9:03:04  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160627  9:03:04  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4393029.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4393029
+160627  9:03:04  InnoDB: Started; log sequence number 0 4393029
+160627  9:03:04 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160627  9:04:20  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160627  9:04:20  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4393029.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4393029
+160627  9:04:20  InnoDB: Started; log sequence number 0 4393029
+160627  9:04:20 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160627  9:06:24  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160627  9:06:24  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4393029.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4393029
+160627  9:06:24  InnoDB: Started; log sequence number 0 4393029
+160627  9:06:24 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160627  9:07:31  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160627  9:07:31  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4393029.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4393029
+160627  9:07:31  InnoDB: Started; log sequence number 0 4393029
+160627  9:07:31 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160627  9:08:24  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160627  9:08:24  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4393029.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4393029
+160627  9:08:24  InnoDB: Started; log sequence number 0 4393029
+160627  9:08:24 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160627 14:03:02  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160627 14:03:02  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4393029.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4393029
+160627 14:03:02  InnoDB: Started; log sequence number 0 4393029
+160627 14:03:02 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160627 16:10:36  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160627 16:10:36  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4393029.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4393029
+160627 16:10:36  InnoDB: Started; log sequence number 0 4393029
+160627 16:10:36 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160629  9:03:26  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160629  9:03:26  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4393029.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4393029
+160629  9:03:26  InnoDB: Started; log sequence number 0 4393029
+160629  9:03:26 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160701  9:25:37  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160701  9:25:37  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4393029.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4393029
+160701  9:25:37  InnoDB: Started; log sequence number 0 4393029
+160701  9:25:37 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160704 14:31:27  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160704 14:31:27  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4399878.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4399878
+160704 14:31:27  InnoDB: Started; log sequence number 0 4399878
+160704 14:31:27 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160705 10:13:37  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160705 10:13:37  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4400779.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4400779
+160705 10:13:37  InnoDB: Started; log sequence number 0 4400779
+160705 10:13:37 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160705 15:11:14  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160705 15:11:14  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4400789.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4400789
+160705 15:11:14  InnoDB: Started; log sequence number 0 4400789
+160705 15:11:14 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160706  9:02:42  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160706  9:02:42  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4403571.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4403571
+160706  9:02:42  InnoDB: Started; log sequence number 0 4403571
+160706  9:02:42 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160706 14:02:19  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160706 14:02:19  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4403581.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4403581
+160706 14:02:19  InnoDB: Started; log sequence number 0 4403581
+160706 14:02:19 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160707  9:01:51  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160707  9:01:51  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4413807.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4413807
+160707  9:01:51  InnoDB: Started; log sequence number 0 4413807
+160707  9:01:51 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160708  9:11:13  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160708  9:11:13  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4416640.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4416640
+160708  9:11:13  InnoDB: Started; log sequence number 0 4416640
+160708  9:11:13 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160708 14:44:53  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160708 14:44:53  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4416650.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4416650
+160708 14:44:53  InnoDB: Started; log sequence number 0 4416650
+160708 14:44:54 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160709 14:03:20  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160709 14:03:20  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4419150.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4419150
+160709 14:03:20  InnoDB: Started; log sequence number 0 4419150
+160709 14:03:20 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160709 15:00:12  InnoDB: Error: in ALTER TABLE `bbs/topic`
+InnoDB: has or is referenced in foreign key constraints
+InnoDB: which are not compatible with the new table definition.
+160709 15:00:12  InnoDB: Error: table `bbs/topic` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/mysql/en/InnoDB_troubleshooting_datadict.html
+160709 15:00:14  InnoDB: Error: in ALTER TABLE `bbs/topic`
+InnoDB: has or is referenced in foreign key constraints
+InnoDB: which are not compatible with the new table definition.
+160709 15:00:14  InnoDB: Error: table `bbs/topic` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/mysql/en/InnoDB_troubleshooting_datadict.html
+160709 15:00:17  InnoDB: Error: in ALTER TABLE `bbs/topic`
+InnoDB: has or is referenced in foreign key constraints
+InnoDB: which are not compatible with the new table definition.
+160709 15:00:17  InnoDB: Error: table `bbs/topic` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/mysql/en/InnoDB_troubleshooting_datadict.html
+160709 15:00:23  InnoDB: Error: in ALTER TABLE `bbs/topic`
+InnoDB: has or is referenced in foreign key constraints
+InnoDB: which are not compatible with the new table definition.
+160709 15:00:23  InnoDB: Error: table `bbs/topic` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/mysql/en/InnoDB_troubleshooting_datadict.html
+160711 14:53:29  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160711 14:53:29  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4491723.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4491723
+160711 14:53:29  InnoDB: Started; log sequence number 0 4491723
+160711 14:53:29 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160714 15:19:25  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160714 15:19:25  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4491733.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4491733
+160714 15:19:25  InnoDB: Started; log sequence number 0 4491733
+160714 15:19:25 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160715 14:11:33  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160715 14:11:33  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4491933.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4491933
+160715 14:11:33  InnoDB: Started; log sequence number 0 4491933
+160715 14:11:33 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160716  9:36:53  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160716  9:36:53  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4494836.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4494836
+160716  9:36:53  InnoDB: Started; log sequence number 0 4494836
+160716  9:36:53 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160722  9:22:13  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160722  9:22:13  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4495970.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4495970
+160722  9:22:13  InnoDB: Started; log sequence number 0 4495970
+160722  9:22:13 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160722 18:34:57  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160722 18:34:58  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4497176.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4497176
+160722 18:34:58  InnoDB: Started; log sequence number 0 4497176
+160722 18:34:58 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160723 14:25:50  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160723 14:25:51  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4499336.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4499336
+160723 14:25:51  InnoDB: Started; log sequence number 0 4499336
+160723 14:25:51 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160726 14:16:39  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160726 14:16:39  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4500790.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4500790
+160726 14:16:39  InnoDB: Started; log sequence number 0 4500790
+160726 14:16:39 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160728  9:19:46  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160728  9:19:46  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4501602.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4501602
+160728  9:19:46  InnoDB: Started; log sequence number 0 4501602
+160728  9:19:46 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160729 14:48:17  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160729 14:48:17  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4501956.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4501956
+160729 14:48:17  InnoDB: Started; log sequence number 0 4501956
+160729 14:48:17 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160730 11:37:19  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160730 11:37:19  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4503796.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4503796
+160730 11:37:19  InnoDB: Started; log sequence number 0 4503796
+160730 11:37:19 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160801  9:03:09  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160801  9:03:09  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4503806.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4503806
+160801  9:03:09  InnoDB: Started; log sequence number 0 4503806
+160801  9:03:09 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
+160801 14:19:17  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160801 14:19:17  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4503826.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4503826
+160801 14:19:17  InnoDB: Started; log sequence number 0 4503826
+160801 14:19:17 [Note] D:\ssh\mysql\mysql5\bin\mysqld-max-nt: ready for connections.
+Version: '5.0.22-community-max-nt'  socket: ''  port: 3306  MySQL Community Edition - Max (GPL)
